@@ -30,7 +30,22 @@ Este sistema é voltado para uma academia pequena, para realizar:
 ## Telas
 
 ### Login ou registro
-- Apos o carregamento do aplicativo, o usuario é direcionado para fazer o login ou cadastro pedindo telefone,CPF,nome completo
+- Apos o carregamento do aplicativo, o usuario é direcionado para fazer o login ou cadastro pedindo CPF,nome completo
 - Se o usuario esquecer a senha terá como refazer apartir do seu e-mail
 ### Tela Inicial
-- 
+- Listas de alunos cadastrados e retirados
+- Planos que cada aluno possui
+- Renda gerada no mes e seus gastos
+- Tabela de treinos
+- Avaliações fisicas de cada aluno como peso e altura
+- Calendario de vencimento ou compra dos planos de cada aluno
+- Quais exercicios cada aluno faz na semana
+- Alunos ativos e inativos
+
+
+
+
+
+
+
+
